@@ -9,7 +9,7 @@ Need to have Python installed on your machine to play!
 STEPS TO PLAY:
 1. Download the folder onto your machine
 2. Navigate to the python-space-war-main file 
-  --> cd pathname/python-space-war-main
+  --> '''cd pathname/python-space-war-main'''
 3. Create a virtual environment for the project to live 
   --> On Windows: python -m venv venv
   --> On MacOS/Linux: python3 -m venv venv
